@@ -20,3 +20,16 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+---
+
+I am a Web Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from Russia.
+
+- 💻 I’m working as a Web Developer and contributing to backend (and frontend) for building web applications.
+
+- ♾️ In my free time, I solve problems on Leetcode, develope my pet-project and read tech articles.
+
+- 👨‍💻 Little People, Big Dreams.
+
+- 🧘‍♂️ Professional athlete many years ago; love playing basketball, good vibes and smart peoples.
+
+- 📨 How to reach me: [![Telegram Badge](https://img.shields.io/badge/Zirill-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Zirill)
